@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleXMLWriter.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleXMLWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleXMLWriter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleXMLWriter_main.iml" group="gradleXMLWriter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleXMLWriter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleXMLWriter_test.iml" group="gradleXMLWriter" />
+    </modules>
+  </component>
+</project>
